@@ -1,22 +1,26 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/4c/95/8c/4c958c9ec5ccf8580d9fb2b13a887a4e.gif" width="100%">
+<!-- Replace with your header GIF -->
+<img src="./assets/header-divider.png" width="100%">
 
 # 🌸✨ Welcome to My Enchanted Garden ✨🌸
 
-<img src="https://64.media.tumblr.com/83a7e584e0c0d9787e0c4da5e7b01531/tumblr_p7n8kqHMuD1wy4lvxo1_540.gifv" width="500">
+<!-- Replace with your main Ghibli GIF (like Howl's castle, Totoro, etc.) -->
+<img src="./assets/main-animation.gif" width="500">
 
 ### *Hi there, I'm Anshika* 🌙💫
 
 *A product designer and developer who believes in crafting digital spaces that feel like a warm embrace*
 
-<img src="https://i.pinimg.com/originals/4c/95/8c/4c958c9ec5ccf8580d9fb2b13a887a4e.gif" width="100%">
+<!-- Replace with your divider GIF -->
+<img src="./assets/section-divider.png" width="100%">
 
 </div>
 
 ## 🏰 About My Creative Journey
 
-<img align="right" src="https://i.pinimg.com/originals/00/c2/04/00c20451448eb6e1f2454e80e2309c5c.gif" width="350">
+<!-- Replace with a cozy Ghibli scene (side image) -->
+<img align="right" src="./assets/side-animation.png" width="350">
 
 Just like the gentle flow of a Ghibli film where every moment is filled with wonder, I believe in creating digital experiences that feel magical and meaningful. I'm here to build cozy corners of the internet where imagination meets reality.
 
@@ -31,7 +35,8 @@ Just like the gentle flow of a Ghibli film where every moment is filled with won
 
 <div align="center">
 
-<img src="https://64.media.tumblr.com/28bd9a2522fbf8981d680317ccbae282/tumblr_n5saj3QOcH1qc9mvso2_r1_500.gif" width="100%">
+<!-- Replace with your section divider -->
+<img src="./assets/section-divider.png" width="100%">
 
 ## 🎨✨ My Creative Toolkit ✨🎨
 
@@ -59,16 +64,19 @@ Just like the gentle flow of a Ghibli film where every moment is filled with won
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/-Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
 <div align="center">
 
-<img src="https://64.media.tumblr.com/f9cb8299d37975a1318f00d7f103b2e4/tumblr_inline_pk9xs6ndyF1r5nuhp_500.gifv" width="100%">
+<!-- Replace with your stats section divider -->
+<img src="./assets/section-divider.png" width="100%">
 
 ## 📊✨ My Journey in Numbers ✨📊
 
-<img src="https://pa1.narvii.com/6581/83a91ac2d3b76b9dc926d0dfe6c84418b1069339_hq.gif" width="500">
+<!-- Replace with a cute coding/stats GIF -->
+<img src="./assets/coding-animation.gif" width="500">
 
 <br><br>
 
@@ -79,26 +87,33 @@ Just like the gentle flow of a Ghibli film where every moment is filled with won
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshikasingh0705&theme=cobalt&hide_border=true&background=FFF0F5&ring=D4669E&fire=FFB6C1&currStreakLabel=8B5A8B" alt="GitHub Streak" width="60%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=anshikasingh0705&theme=onestar&no-frame=true&no-bg=true&column=4" alt="Trophy" width="70%"/>
+<br>
 
-<img src="https://i.pinimg.com/originals/98/fd/e1/98fde1b89cf220c47a0bd5760c28696b.gif" width="100%">
+<!-- Trophies with pink theme -->
+<img src="https://github-profile-trophy.vercel.app/?username=anshikasingh0705&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
+
+<!-- Replace with your decorative divider -->
+<img src="./assets/section-divider.gif" width="100%">
 
 ## 🌸💌 Let's Create Something Magical Together 💌🌸
 
-<img src="https://i.pinimg.com/originals/8d/87/b6/8d87b6c0e638e222cc1e43ae548eff01.gif" width="150">
+<!-- Replace with a small cute GIF (like Jiji, soot sprites, etc.) -->
+<img src="./assets/cute-character.gif" width="150">
 
 *I'm always excited to collaborate on projects that bring a little more magic into the world*
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/-Let's_Connect_✨-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anshika-singh-64204b260)
-[![LeetCode](https://img.shields.io/badge/-Code_Together_🌸-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/anshika1717/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshika-singh-64204b260)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/anshika1717/)
 
-<img src="https://64.media.tumblr.com/28bd9a2522fbf8981d680317ccbae282/tumblr_n5saj3QOcH1qc9mvso2_r1_500.gif" width="100%">
+<!-- Replace with your section divider -->
+<img src="https://media.tenor.com/Fv8n_FJSSjMAAAAi/divider.gif" width="100%">
 
 ## 💭 A Little About Me
 
-<img align="left" src="https://gifdb.com/images/high/cute-kiki-s-delivery-service-cat-w5cl42bq7lsjls4n.gif" width="250">
+<!-- Replace with a cozy cat/character GIF (Jiji would be perfect!) -->
+<img align="left" src="./assets/cat-companion.gif" width="250">
 
 <br><br>
 
@@ -118,9 +133,11 @@ Just like the gentle flow of a Ghibli film where every moment is filled with won
 
 <br clear="left"/>
 
-<img src="https://i.pinimg.com/originals/0f/12/c7/0f12c7d869d54ff7fa91358faa701ef9.gif" width="100%">
+<!-- Replace with a landscape/scenery GIF -->
+<img src="./assets/landscape.gif" width="100%">
 
-<img src="https://i.pinimg.com/originals/98/fd/e1/98fde1b89cf220c47a0bd5760c28696b.gif" width="100%">
+<!-- Replace with your footer divider -->
+<img src="./assets/footer-divider.gif" width="100%">
 
 ### *"In this garden of code and creativity, every project is a new adventure"* 🌟✨
 
@@ -128,6 +145,26 @@ Just like the gentle flow of a Ghibli film where every moment is filled with won
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anshikasingh0705&color=FFB6C1&style=for-the-badge)
 
-<img src="https://64.media.tumblr.com/f9cb8299d37975a1318f00d7f103b2e4/tumblr_inline_pk9xs6ndyF1r5nuhp_500.gifv" width="100%">
+<!-- Replace with your final divider -->
+<img src="https://media.tenor.com/Fv8n_FJSSjMAAAAi/divider.gif" width="100%">
 
 </div>
+
+---
+
+## 📝 GIF Placement Guide:
+
+Upload your GIFs to an `assets` folder in your repo and replace these paths:
+
+- `./assets/header-divider.gif` - Elegant sparkly/floral divider for top
+- `./assets/main-animation.gif` - Main Ghibli scene (Howl's castle, Totoro, etc.)
+- `./assets/side-animation.gif` - Cozy scene for right side (cottage, garden, etc.)
+- `./assets/section-divider.gif` - Section separator 
+- `./assets/coding-animation.gif` - Cute coding/computer scene
+- `./assets/decorative-divider.gif` - Pretty decorative element
+- `./assets/cute-character.gif` - Small character (Jiji, soot sprite, etc.)
+- `./assets/cat-companion.gif` - Cat GIF (Jiji from Kiki!)
+- `./assets/landscape.gif` - Beautiful Ghibli landscape
+- `./assets/footer-divider.gif` - Final divider
+
+**I've kept the Tenor divider that's working** and fixed the trophy display with a flatter theme that should load properly!
