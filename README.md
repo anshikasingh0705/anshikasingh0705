@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace with your header GIF -->
-<img src="./assets/header-divider.png" width="100%">
+<img src="./assets/header-divider.png" width="25%">
 
 # 🌸✨ Welcome to My Enchanted Garden ✨🌸
 
@@ -13,14 +13,14 @@
 *A product designer and developer who believes in crafting digital spaces that feel like a warm embrace*
 
 <!-- Replace with your divider GIF -->
-<img src="./assets/section-divider.png" width="100%">
+<img src="./assets/section-divider.png" width="40%">
 
 </div>
 
 ## 🏰 About My Creative Journey
 
 <!-- Replace with a cozy Ghibli scene (side image) -->
-<img align="right" src="./assets/side-animation.png" width="350">
+<img align="right" src="./assets/side-animation.gif" width="550">
 
 Just like the gentle flow of a Ghibli film where every moment is filled with wonder, I believe in creating digital experiences that feel magical and meaningful. I'm here to build cozy corners of the internet where imagination meets reality.
 
@@ -36,7 +36,7 @@ Just like the gentle flow of a Ghibli film where every moment is filled with won
 <div align="center">
 
 <!-- Replace with your section divider -->
-<img src="./assets/section-divider.png" width="100%">
+<img src="./assets/section-divider.png" width="40%">
 
 ## 🎨✨ My Creative Toolkit ✨🎨
 
@@ -71,12 +71,12 @@ Just like the gentle flow of a Ghibli film where every moment is filled with won
 <div align="center">
 
 <!-- Replace with your stats section divider -->
-<img src="./assets/section-divider.png" width="100%">
+<img src="./assets/section-divider.png" width="40%">
 
 ## 📊✨ My Journey in Numbers ✨📊
 
 <!-- Replace with a cute coding/stats GIF -->
-<img src="./assets/coding-animation.gif" width="500">
+
 
 <br><br>
 
@@ -93,12 +93,12 @@ Just like the gentle flow of a Ghibli film where every moment is filled with won
 <img src="https://github-profile-trophy.vercel.app/?username=anshikasingh0705&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
 
 <!-- Replace with your decorative divider -->
-<img src="./assets/section-divider.gif" width="100%">
+<img src="./assets/section-divider.gif" width="40%">
 
 ## 🌸💌 Let's Create Something Magical Together 💌🌸
 
 <!-- Replace with a small cute GIF (like Jiji, soot sprites, etc.) -->
-<img src="./assets/cute-character.gif" width="150">
+
 
 *I'm always excited to collaborate on projects that bring a little more magic into the world*
 
@@ -108,7 +108,7 @@ Just like the gentle flow of a Ghibli film where every moment is filled with won
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/anshika1717/)
 
 <!-- Replace with your section divider -->
-<img src="https://media.tenor.com/Fv8n_FJSSjMAAAAi/divider.gif" width="100%">
+<img src="./assets/section-divider.gif" width="40%">
 
 ## 💭 A Little About Me
 
@@ -137,34 +137,16 @@ Just like the gentle flow of a Ghibli film where every moment is filled with won
 <img src="./assets/landscape.gif" width="100%">
 
 <!-- Replace with your footer divider -->
-<img src="./assets/footer-divider.gif" width="100%">
+
 
 ### *"In this garden of code and creativity, every project is a new adventure"* 🌟✨
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fairy" width="80" />
+<img src="./assets/header-divider.gif" alt="Fairy" width="25" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anshikasingh0705&color=FFB6C1&style=for-the-badge)
 
 <!-- Replace with your final divider -->
-<img src="https://media.tenor.com/Fv8n_FJSSjMAAAAi/divider.gif" width="100%">
+<img src="./assets/header-divider.gif" width="25%">
 
 </div>
 
----
-
-## 📝 GIF Placement Guide:
-
-Upload your GIFs to an `assets` folder in your repo and replace these paths:
-
-- `./assets/header-divider.gif` - Elegant sparkly/floral divider for top
-- `./assets/main-animation.gif` - Main Ghibli scene (Howl's castle, Totoro, etc.)
-- `./assets/side-animation.gif` - Cozy scene for right side (cottage, garden, etc.)
-- `./assets/section-divider.gif` - Section separator 
-- `./assets/coding-animation.gif` - Cute coding/computer scene
-- `./assets/decorative-divider.gif` - Pretty decorative element
-- `./assets/cute-character.gif` - Small character (Jiji, soot sprite, etc.)
-- `./assets/cat-companion.gif` - Cat GIF (Jiji from Kiki!)
-- `./assets/landscape.gif` - Beautiful Ghibli landscape
-- `./assets/footer-divider.gif` - Final divider
-
-**I've kept the Tenor divider that's working** and fixed the trophy display with a flatter theme that should load properly!
