@@ -121,7 +121,7 @@ Just like the gentle flow of a Ghibli film where every moment is filled with won
 
 🐱 *My pixel art cats are my loyal companions through every commit*
 
-🍵 *Fueled by warm tea, wonder, and Studio Ghibli soundtracks*
+🍵 *Fueled by smoothies, wonder, and almighty spotify*
 
 ✨ *Believer in the magic hidden in thoughtful details*
 
