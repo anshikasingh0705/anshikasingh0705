@@ -22,7 +22,7 @@
 <!-- Replace with a cozy Ghibli scene (side image) -->
 <img align="right" src="./assets/side-animation.gif" width="550">
 
-Just like the gentle flow of a Ghibli film where every moment is filled with wonder, I believe in creating digital experiences that feel magical and meaningful. I'm here to build cozy corners of the internet where imagination meets reality.
+Just like the gentle flow of a childhood memory where every moment is filled with wonder, I believe in creating digital experiences that feel magical and meaningful. I'm here to build cozy corners of the internet where imagination meets reality.
 
 **Currently nurturing in my garden:**
 - 🌿 Growing design systems that bloom with intention
@@ -44,7 +44,7 @@ Just like the gentle flow of a Ghibli film where every moment is filled with won
 
 </div>
 
-### 💫 Languages I Speak
+### 💫 Languages 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
